@@ -3,13 +3,16 @@ New Release and Nighly OpenSCAD icons
 
 Includes:
 
-![OpenSCAD Logo variations](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/Logo-Variations.jpg?raw=true)
+![OpenSCAD Logo variations](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Nightly.ico?raw=true)
+OpenSCAD_Release.ico
 
-This is to compare ico sizes against light and dark backgrounds
+![OpenSCAD Logo variations](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Nightly.ico?raw=true)
+OpenSCAD_Nightly.ico 
+
+
+
 
 OpenSCAD_Nightly.svg & OpenSCAD_Release.svg  -  SVG versions of icons
-
-OpenSCAD_Nightly.ico & OpenSCAD_Release.ico  -  Windows .ico versions of icons
 
 To use new icons on Windows:
 1. Place ico files in C:\Program Files\OpenSCAD or C:\Program Files\OpenSCAD (Nightly)
@@ -19,3 +22,7 @@ To use new icons on Windows:
 5. Select OK
 6. Select Apply
 7. Select OK
+
+![OpenSCAD Logo variations](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/Logo-Variations.jpg?raw=true)
+
+This is to compare ico sizes against light and dark backgrounds
