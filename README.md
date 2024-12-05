@@ -3,7 +3,9 @@ New Release and Nighly OpenSCAD icons
 
 Includes:
 
-Logo-Variatons.jpg  - This is to compare ico sizes against light and dark backgrounds
+![alt text](image.jpg)
+
+![OpenSCAD Logo variations]Logo-Variatons.jpg)  - This is to compare ico sizes against light and dark backgrounds
 
 OpenSCAD_Nightly.svg & OpenSCAD_Release.svg  -  SVG versions of icons
 
