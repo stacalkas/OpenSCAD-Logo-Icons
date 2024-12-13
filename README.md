@@ -3,20 +3,24 @@ New Release and Nighly OpenSCAD icons
 
 Includes:
 
-![OpenSCAD ico Release](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Release.ico?raw=true)
-OpenSCAD_Release.ico 
+## Legacy
+![OpenSCAD Release Legacy](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Release_Legacy.ico?raw=true)
+OpenSCAD_Release_Legacy.ico
 
-![OpenSCAD ico Nightly](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Nightly.ico?raw=true)
-OpenSCAD_Nightly.ico
-
-<img src="https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Release.svg?raw=true" width="100" height="100">
-OpenSCAD_Release.svg 
-
-<img src="https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Nightly.svg?raw=true" width="100" height="100">
-OpenSCAD_Nightly.svg
+![OpenSCAD Nightly Legacy](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Nightly_Legacy.ico?raw=true)
+OpenSCAD_Nightly_Legacy.ico
 
 
-## To use new icons on Windows:
+## Modern
+![OpenSCAD Release Legacy](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Release_Modern.ico?raw=true)
+OpenSCAD_Release_Modern.ico
+
+![OpenSCAD Nightly Legacy](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Nightly_Modern.ico?raw=true)
+OpenSCAD_Nightly_Modern.ico
+
+
+
+### To use new icons on Windows:
 1. Place ico files in C:\Program Files\OpenSCAD or C:\Program Files\OpenSCAD (Nightly)
 2. Right-click on shortcut -> Select properties
 3. Select Change Icon
@@ -24,6 +28,3 @@ OpenSCAD_Nightly.svg
 5. Select OK
 6. Select Apply
 7. Select OK
-
-This is to compare icon sizes against light and dark backgrounds
-![OpenSCAD Logo variations](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/Logo-Variations.jpg?raw=true)
