@@ -12,10 +12,10 @@ OpenSCAD_Nightly_Legacy.ico
 
 
 ## Modern
-![OpenSCAD Release Legacy](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Release_Modern.ico?raw=true)
+![OpenSCAD Release Modern](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Release_Modern.ico?raw=true)
 OpenSCAD_Release_Modern.ico
 
-![OpenSCAD Nightly Legacy](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Nightly_Modern.ico?raw=true)
+![OpenSCAD Nightly Modern](https://github.com/stacalkas/OpenSCAD-Logo-Icons/blob/main/OpenSCAD_Nightly_Modern.ico?raw=true)
 OpenSCAD_Nightly_Modern.ico
 
 
